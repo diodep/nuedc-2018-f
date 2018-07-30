@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1532254943 source:d:\8051\fm_transmit\i2c.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532263772 d:\8051\fm_transmit\i2c.h
+
+1532324622 source:d:\8051\fm_transmit\main.c
+	<8052.h>
+	<stdint.h>
+	<stdio.h>
+	"i2c.h"
+	"lcd1602.h"
+	"eeprom.h"
+
+1532261659 source:d:\8051\fm_transmit\delay.c
+
+1532264445 d:\8051\fm_transmit\lcd1602.h
+
+1532328099 source:d:\8051\fm_transmit\lcd1602.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532285995 source:d:\8051\fm_transmit\eeprom.c
+	"8052.h"
+	<stdint.h>
+	"eeprom.h"
+
+1532285999 d:\8051\fm_transmit\eeprom.h
+

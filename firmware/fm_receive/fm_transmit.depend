@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1532254943 source:d:\8051\fm_transmit\i2c.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532263772 d:\8051\fm_transmit\i2c.h
+
+1532264399 source:d:\8051\fm_transmit\main.c
+	<8052.h>
+	<stdint.h>
+	<stdio.h>
+	"i2c.h"
+	"lcd1602.h"
+
+1532261659 source:d:\8051\fm_transmit\delay.c
+
+1532264445 d:\8051\fm_transmit\lcd1602.h
+
+1532263378 source:d:\8051\fm_transmit\lcd1602.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532261659 source:d:\8051\fm_recieve\delay.c
+
+1532274727 source:d:\8051\fm_recieve\i2c.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532274755 d:\8051\fm_recieve\i2c.h
+
+1532328008 source:d:\8051\fm_recieve\lcd1602.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532392253 source:d:\8051\fm_recieve\main.c
+	<8052.h>
+	<stdint.h>
+	<stdio.h>
+	"i2c.h"
+	"lcd1602.h"
+	"eeprom.h"
+
+1532264445 d:\8051\fm_recieve\lcd1602.h
+
+1532285995 source:d:\8051\fm_recieve\eeprom.c
+	"8052.h"
+	<stdint.h>
+	"eeprom.h"
+
+1532285999 d:\8051\fm_recieve\eeprom.h
+
+1532261659 source:d:\8051\fm_receive\delay.c
+
+1532285995 source:d:\8051\fm_receive\eeprom.c
+	"8052.h"
+	<stdint.h>
+	"eeprom.h"
+
+1532285999 d:\8051\fm_receive\eeprom.h
+
+1532274727 source:d:\8051\fm_receive\i2c.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
+1532274755 d:\8051\fm_receive\i2c.h
+
+1532328008 source:d:\8051\fm_receive\lcd1602.c
+	<8051.h>
+	<stdint.h>
+	"i2c.h"
+
