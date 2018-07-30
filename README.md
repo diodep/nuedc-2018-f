@@ -15,7 +15,7 @@ Abilities
 
 - [x] Transmitter powered by two AA batteries.
 - [x] Analog FM, carrier frequency range 88MHz to 108MHz, max drift 75kHz, Audio bandwidth 40Hz~15kHz.
-- [x] Antenna length less than 0.5 meters. Ordinary FM receivers can receive signal. No significant distotion.
+- [x] Antenna length less than 0.5 meters. Ordinary FM receivers can receive signal transmitted by this transmitter. No significant distortion.
 - [x] Channel spacing 200kHz.
 - [x] A two channel receiver, up to 10 meters transmission distance from transmitter.
 - [x] Receiver outputs up to 0.5W to the 8-Ohm speaker.
